@@ -5,14 +5,14 @@ Funcionalidade: Realizar o cadastro do usuario no site
 Cenario: Realizar um registro de um novo usuario
        Dado que eu esteja na página do register
        Quando preencho os dados na tela
-        | First Name | John                 |
-        | Last Name  | Lennon               |
+        | FirstName  | John                 |
+        | LastName   | Lennon               |
         | Phone      | 219879887            |
         | Email      | john.lenon@teste.com |
         | Address1   | Alameda Tocantins    |
         | City       | Alphaville           |
         | State      | São Paulo            |
-        | Postal Cod | 051641               |
+        | PostalCod  | 051641               |
         | Country    | Brazil               |
         | Username   | john.lennon          |
         | Password   | john123              |
