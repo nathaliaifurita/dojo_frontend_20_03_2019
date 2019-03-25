@@ -8,7 +8,7 @@ Repositório utilizado no Dojo de frontend do QA Sampa Meeting dia 20/03/2019
 
 ## CONTEÚDO
  - [Slides da apresentação](https://docs.google.com/presentation/d/1H7JcMl8brY0FY7BE6W_N3ox8BgLkQtsNd_YDwbI0vO0/edit#slide=id.g3eefde715a_0_0)
- - [Fotos do Workshop - 20/03/2019](https://photos.google.com/u/1/share/AF1QipMyP5UuimesQ2ImKPVIMIDAIlACjE6MUOK4UzhpYmXpxIbXz1UyJsf4AqSrv3f4gw?key=SFphUms0MG5ndTl5eEkzV3NlcmZNWWd0RW1SVHB3)
+ - [Fotos do Workshop - 20/03/2019](https://photos.google.com/album/AF1QipOGB0kphyjJ9YlClCIboMVr8f2kqgKgXus7bHeV)
 
 ### INSTALAÇÃO
 
@@ -27,7 +27,7 @@ Gems usadas no projeto:
 Passo a passo da instalação
 1. Instalar ruby 
 2. Comando: `ruby --version` para verificar a versão do Ruby
-3. `git clone https://github.com/nathaliaifurita/dojo_frontend.git`
+3. `git clone https://github.com/nathaliaifurita/dojo_frontend_20_03_2019.git`
 4. `gem install bundler` (no cmd) - Instalar o gerenciador de dependências
 5. `bundle install` - instalar as dependências do Gemfile
 
@@ -40,7 +40,7 @@ Passo a passo da instalação
 ### BAIXAR O PROJETO NO GITHUB
 
 Se não tiver o projeto na máquina, navegue até a pasta que deseja criar:
-- `git clone https://github.com/nathaliaifurita/dojo_frontend.git`
+- `git clone https://github.com/nathaliaifurita/dojo_frontend_20_03_2019.git`
 
 Se já tiver o projeto na máquina, navegue até a pasta do projeto:
 - `git pull origin master`
