@@ -8,7 +8,7 @@ Repositório utilizado no Dojo de frontend do QA Sampa Meeting dia 20/03/2019
 
 ## CONTEÚDO
  - [Slides da apresentação](https://docs.google.com/presentation/d/1H7JcMl8brY0FY7BE6W_N3ox8BgLkQtsNd_YDwbI0vO0/edit#slide=id.g3eefde715a_0_0)
- - [Fotos do Workshop - 20/03/2019](https://photos.google.com/album/AF1QipOGB0kphyjJ9YlClCIboMVr8f2kqgKgXus7bHeV)
+ - [Fotos do Workshop - 20/03/2019](https://photos.google.com/share/AF1QipOUga6xleCeQ-xXeqzhL5cIPxQCWcuJAUuUGnUSZV1daIc_yj5wmMRGQHNtip_6og?key=WTVLQzE1N0UzY3dTMXFueHhVdnBBYk9BMkJwaEZB)
 
 ### INSTALAÇÃO
 
