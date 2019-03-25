@@ -101,6 +101,7 @@ register_steps_1.rb
 Os arquivos criados por mim (Nathalia) posteriormente são os:
 ```
 Register_2.feature
-register_2.rb
+register_page2.rb
 register_steps_2.rb
+create_acoount_page.rb
 ```
