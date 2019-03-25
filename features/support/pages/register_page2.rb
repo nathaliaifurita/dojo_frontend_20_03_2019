@@ -24,9 +24,13 @@ class RegisterPage2 < SitePrism::Page
         campo_city.set dados[:city]
         campo_state.set dados[:state]
         campo_postalCode.set dados[:postalcod]
-        campo_country.set dados[:country]
+        campo_country.select dados[:country]
         campo_username.set dados[:username]
         campo_password.set dados[:password]
         campo_confirmed.set dados[:confirm]
+    end
+
+    def clicar_em_submit
+        submit.click
     end
 end

@@ -13,10 +13,10 @@ Cenario: Realizar um registro de um novo usuario
         | city       | Alphaville           |
         | state      | São Paulo            |
         | postalcod  | 051641               |
-        | country    | Brazil               |
+        | country    | BRAZIL               |
         | username   | john.lennon          |
         | password   | john123              |
-        | confirm    | 123                  |
+        | confirm    | john123              |
        Entao realizo o cadastro de um novo usuario
 
    

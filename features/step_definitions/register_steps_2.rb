@@ -8,9 +8,11 @@ Dado("que eu esteja na página do register") do
     @register_page2 = RegisterPage2.new  
     @dados = table.rows_hash
     @register_page2.preencher_cadastro(@dados)
+    @register_page2.clicar_em_submit
   end
   
   Entao("realizo o cadastro de um novo usuario") do
-    pending # Write code here that turns the phrase above into concrete actions
+    @create_account_page = CreateAccountPage.new
+    expect(@create_account_page).to have_text "Dear John Lennon,"
   end
   
